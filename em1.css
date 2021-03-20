@@ -1,0 +1,12 @@
+h2 {
+  color: white;
+}
+.btn btn-warning {
+  color: #800000;
+  background-color: #ff5733;
+}
+
+body {
+  font-style: italic;
+  font-size: 30px;
+}
